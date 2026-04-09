@@ -1,0 +1,9 @@
+REST API Endpoint - evaluate content of convo and determine what the user beleives about themselves or a topic.
+- accept raw convo data as json, including message and metadata
+- feature extraction and apply one ore more machine learning models
+- can use pretrained hf or build lightweight models
+- output clear format that can be consumed to show user's evolving beliefs about themselves or different topics: 
+    - team assinging value to a convo
+    - team developing StoryBot
+    - or a team recommending content in the community
+- breif README to outline setup and running of API along with testing endpoint
