@@ -50,9 +50,19 @@ ollama serve   # runs on http://localhost:11434 by default
 
 ### 4. Run the API
 
-```bash
-cd build
+> If you have Anaconda installed, always use the venv uvicorn (not the system one) to avoid NumPy version conflicts.
+
+```powershell
+# Option A — activate the venv first, then run normally
+..\.venv\Scripts\activate          # from inside build/
 uvicorn app.main:app --reload --port 8000
+
+# Option B — run directly without activating
+# (from the repo root)
+.venv\Scripts\uvicorn app.main:app --app-dir build --reload --port 8000
+
+# Option B — or from the build/ directory
+..\.venv\Scripts\uvicorn app.main:app --reload --port 8000
 ```
 
 The API will be available at:
