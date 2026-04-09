@@ -1,0 +1,65 @@
+{
+  "ref_conversation_id": 66168,
+  "ref_user_id": 212,
+  "analyzed_at": "2026-04-09T18:14:26.362185Z",
+  "message_count": 32,
+  "user_message_count": 16,
+  "beliefs": [
+    {
+      "topic": "leisure",
+      "belief": "Engaging in physical activity helps me clear my mind and feel energized.",
+      "sentiment": "positive",
+      "confidence": 0.9,
+      "evidence": "Just finished my morning jog—feeling energized!"
+    },
+    {
+      "topic": "leisure",
+      "belief": "I have an inherent desire to engage in relaxing, hands-on, creative hobbies.",
+      "sentiment": "positive",
+      "confidence": 1.0,
+      "evidence": "I love working with my hands."
+    },
+    {
+      "topic": "family",
+      "belief": "Quality family time, especially shared activities, is the most enjoyable and valuable experience.",
+      "sentiment": "positive",
+      "confidence": 1.0,
+      "evidence": "Family time is the best!"
+    },
+    {
+      "topic": "other",
+      "belief": "Work stress can easily lead to feeling overwhelmed, requiring active measures to find personal balance.",
+      "sentiment": "negative",
+      "confidence": 1.0,
+      "evidence": "Work has been really stressful... I need to find a better balance."
+    },
+    {
+      "topic": "autonomy",
+      "belief": "Seeking support when struggling is emotionally difficult, despite being necessary.",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "It’s hard to admit when I need help."
+    }
+  ],
+  "downstream_scores": {
+    "conversation_value_score": 8.92,
+    "dominant_theme": "Achieving and maintaining personal balance between activities, family connection, and managing work stress.",
+    "suggested_follow_up": "Since you've been so proactive with your hobbies and family time, what small habit could help build resilience against professional stress?",
+    "content_tags": [
+      "aging-in-place",
+      "caregiving",
+      "creative-activities",
+      "entertainment",
+      "family-bonding",
+      "family-support",
+      "general-interest",
+      "hobbies",
+      "independence",
+      "relationships",
+      "self-care",
+      "stress-management",
+      "wellness"
+    ]
+  },
+  "raw_llm_output": null
+}

@@ -1,0 +1,51 @@
+{
+  "ref_conversation_id": 12179,
+  "ref_user_id": 439,
+  "analyzed_at": "2026-04-09T18:22:18.080820Z",
+  "message_count": 20,
+  "user_message_count": 10,
+  "beliefs": [
+    {
+      "topic": "Health",
+      "belief": "Engaging in physical activity, even when imperfect, leads to increased energy and positive mood.",
+      "sentiment": "positive",
+      "confidence": 1.0,
+      "evidence": "Feeling energized and ready to tackle the day!"
+    },
+    {
+      "topic": "Community",
+      "belief": "Socializing and having external accountability enhances personal motivation and goal achievement.",
+      "sentiment": "positive",
+      "confidence": 1.0,
+      "evidence": "It’s nice to have a mix of health and social time!"
+    },
+    {
+      "topic": "Identity",
+      "belief": "Setbacks are temporary, and I have the resilience to restart my positive habits.",
+      "sentiment": "positive",
+      "confidence": 0.9,
+      "evidence": "I’ll try to roll out my mat and do something light."
+    },
+    {
+      "topic": "Autonomy",
+      "belief": "I must be proactive and consistent in creating my own routines to achieve my goals.",
+      "sentiment": "positive",
+      "confidence": 0.9,
+      "evidence": "Just gotta get moving!"
+    }
+  ],
+  "downstream_scores": {
+    "conversation_value_score": 5.9,
+    "dominant_theme": "Establishing and maintaining a sustainable wellness routine through social support",
+    "suggested_follow_up": "Given how motivated you sound now, what small reward do you feel you’ve earned for sticking to your new routine this week?",
+    "content_tags": [
+      "general-interest",
+      "health",
+      "routine",
+      "social-support",
+      "wellness",
+      "yoga"
+    ]
+  },
+  "raw_llm_output": null
+}

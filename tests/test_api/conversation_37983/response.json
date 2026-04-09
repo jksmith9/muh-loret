@@ -1,0 +1,70 @@
+{
+  "ref_conversation_id": 37983,
+  "ref_user_id": 228,
+  "analyzed_at": "2026-04-09T18:18:37.257972Z",
+  "message_count": 21,
+  "user_message_count": 11,
+  "beliefs": [
+    {
+      "topic": "health",
+      "belief": "Achieving fitness goals requires consistent effort, even when conditions are difficult.",
+      "sentiment": "positive",
+      "confidence": 0.95,
+      "evidence": "It was cold, but I felt accomplished afterward. I've also been using my treadmill more."
+    },
+    {
+      "topic": "identity",
+      "belief": "I possess the ability to maintain challenging routines through planning and variety.",
+      "sentiment": "positive",
+      "confidence": 0.9,
+      "evidence": "I've been mixing it up with interval training and listening to podcasts. It makes the time fly!"
+    },
+    {
+      "topic": "other",
+      "belief": "Motivation is cyclical, and I must consciously engage in restorative activities to manage ups and downs.",
+      "sentiment": "neutral",
+      "confidence": 1.0,
+      "evidence": "I try to take a step back and do something I enjoy, like baking or reading. It helps me recharge!"
+    },
+    {
+      "topic": "community",
+      "belief": "Solo activities, while enjoyable, can benefit from external social support.",
+      "sentiment": "neutral",
+      "confidence": 0.8,
+      "evidence": "I usually run alone. It might be nice to have company for a change."
+    },
+    {
+      "topic": "leisure",
+      "belief": "Hearing inspiring narratives about success helps me feel motivated and connected to aspiration.",
+      "sentiment": "positive",
+      "confidence": 0.9,
+      "evidence": "It's so inspiring to hear entrepreneurs share their stories!"
+    }
+  ],
+  "downstream_scores": {
+    "conversation_value_score": 8.82,
+    "dominant_theme": "Maintaining consistency and managing motivation within fitness goals",
+    "suggested_follow_up": "Since you mentioned company would be nice, would you be interested in brainstorming some ways to find a running buddy or an accountability partner for your 10k training?",
+    "content_tags": [
+      "community-events",
+      "creative-activities",
+      "entertainment",
+      "fitness",
+      "general-interest",
+      "goal-setting",
+      "hobbies",
+      "life-story",
+      "medical-support",
+      "mental-health",
+      "motivation",
+      "peer-support",
+      "personal-growth",
+      "physical-wellbeing",
+      "routine",
+      "self-care",
+      "self-reflection",
+      "social-connection"
+    ]
+  },
+  "raw_llm_output": null
+}

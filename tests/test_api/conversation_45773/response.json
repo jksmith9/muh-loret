@@ -1,0 +1,56 @@
+{
+  "ref_conversation_id": 45773,
+  "ref_user_id": 110,
+  "analyzed_at": "2026-04-09T18:17:26.486152Z",
+  "message_count": 20,
+  "user_message_count": 10,
+  "beliefs": [
+    {
+      "topic": "health",
+      "belief": "Starting new fitness routines can feel overwhelming and require initial guidance.",
+      "sentiment": "negative",
+      "confidence": 1.0,
+      "evidence": "feel so lost at times. ... feels like... too much info to digest."
+    },
+    {
+      "topic": "identity",
+      "belief": "I am more flexible than I am strong, and this is an area I need to develop.",
+      "sentiment": "neutral",
+      "confidence": 1.0,
+      "evidence": "Strong-ish on flexibility, but strength? Not so much."
+    },
+    {
+      "topic": "other",
+      "belief": "Achieving noticeable progress is a significant source of personal motivation and satisfaction.",
+      "sentiment": "positive",
+      "confidence": 1.0,
+      "evidence": "surprisingly satisfying! I love the challenge... It's motivating seeing progress."
+    },
+    {
+      "topic": "health",
+      "belief": "Progress must be incremental, requiring careful attention to specific parameters like weight selection to remain safe.",
+      "sentiment": "neutral",
+      "confidence": 1.0,
+      "evidence": "I’m curious about how to pick the right weights. Like, how much is too much?"
+    }
+  ],
+  "downstream_scores": {
+    "conversation_value_score": 9.0,
+    "dominant_theme": "Achieving and tracking measurable fitness progress",
+    "suggested_follow_up": "Since you felt so motivated after your last workout, what small non-lifting activity could you add this week to maintain that sense of momentum?",
+    "content_tags": [
+      "fitness-routine",
+      "general-interest",
+      "life-story",
+      "medical-support",
+      "mental-health",
+      "personal-growth",
+      "physical-wellbeing",
+      "progress-tracking",
+      "self-improvement",
+      "self-reflection",
+      "strength-training"
+    ]
+  },
+  "raw_llm_output": null
+}

@@ -1,0 +1,67 @@
+{
+  "ref_conversation_id": 93160,
+  "ref_user_id": 322,
+  "analyzed_at": "2026-04-09T18:20:39.827146Z",
+  "message_count": 28,
+  "user_message_count": 14,
+  "beliefs": [
+    {
+      "topic": "health",
+      "belief": "Maintaining an active routine is crucial for emotional stability and energy levels.",
+      "sentiment": "positive",
+      "confidence": 0.95,
+      "evidence": "I feel like I have more energy to handle it now that I'm staying active."
+    },
+    {
+      "topic": "self-identity",
+      "belief": "I tend to underestimate my own capability when facing new challenges, but I can improve over time.",
+      "sentiment": "neutral",
+      "confidence": 0.85,
+      "evidence": "I worry I'm not coordinated enough [but] I really got into it by the end."
+    },
+    {
+      "topic": "health",
+      "belief": "Overcoming stress requires conscious behavioral changes rather than just brute effort.",
+      "sentiment": "positive",
+      "confidence": 1.0,
+      "evidence": "usually just push through, but I know that's not healthy."
+    },
+    {
+      "topic": "leisure",
+      "belief": "My interests (like hiking and swimming) are sources of both challenge and relaxation.",
+      "sentiment": "positive",
+      "confidence": 0.9,
+      "evidence": "I find them relaxing but challenging at the same time."
+    },
+    {
+      "topic": "autonomy",
+      "belief": "Having structured, enjoyable activities gives me momentum and increased motivation.",
+      "sentiment": "positive",
+      "confidence": 0.9,
+      "evidence": "I’m feeling more motivated with all the activities I’ve been doing lately."
+    }
+  ],
+  "downstream_scores": {
+    "conversation_value_score": 7.84,
+    "dominant_theme": "Building and sustaining positive physical and emotional routines in response to stress.",
+    "suggested_follow_up": "Given how much momentum you've built with dance and hiking, what's one small, manageable adjustment you can make next week to ensure that consistency continues?",
+    "content_tags": [
+      "activity-tracking",
+      "aging-in-place",
+      "creative-activities",
+      "entertainment",
+      "fitness-routine",
+      "general-interest",
+      "hobbies",
+      "independence",
+      "medical-support",
+      "mental-health",
+      "physical-wellbeing",
+      "resilience",
+      "self-care",
+      "self-improvement",
+      "stress-management"
+    ]
+  },
+  "raw_llm_output": null
+}

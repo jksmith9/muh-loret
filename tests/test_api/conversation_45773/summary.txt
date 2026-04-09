@@ -1,0 +1,24 @@
+Conversation : 45773
+User         : 110
+Analyzed at  : 2026-04-09T18:17:26.486152Z
+Messages     : 20 total / 10 user
+
+-- Beliefs ------------------------------------------------------------------
+  1. [HEALTH] Starting new fitness routines can feel overwhelming and require initial guidance.
+     sentiment=negative  confidence=1.00
+     evidence: "feel so lost at times. ... feels like... too much info to digest."
+  2. [IDENTITY] I am more flexible than I am strong, and this is an area I need to develop.
+     sentiment=neutral  confidence=1.00
+     evidence: "Strong-ish on flexibility, but strength? Not so much."
+  3. [OTHER] Achieving noticeable progress is a significant source of personal motivation and satisfaction.
+     sentiment=positive  confidence=1.00
+     evidence: "surprisingly satisfying! I love the challenge... It's motivating seeing progress."
+  4. [HEALTH] Progress must be incremental, requiring careful attention to specific parameters like weight selection to remain safe.
+     sentiment=neutral  confidence=1.00
+     evidence: "I’m curious about how to pick the right weights. Like, how much is too much?"
+
+-- Downstream Scores --------------------------------------------------------
+  Value score    : 9.0 / 10
+  Dominant theme : Achieving and tracking measurable fitness progress
+  Follow-up      : Since you felt so motivated after your last workout, what small non-lifting activity could you add this week to maintain that sense of momentum?
+  Content tags   : fitness-routine, general-interest, life-story, medical-support, mental-health, personal-growth, physical-wellbeing, progress-tracking, self-improvement, self-reflection, strength-training

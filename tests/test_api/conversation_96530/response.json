@@ -1,0 +1,64 @@
+{
+  "ref_conversation_id": 96530,
+  "ref_user_id": 396,
+  "analyzed_at": "2026-04-09T18:21:36.954820Z",
+  "message_count": 20,
+  "user_message_count": 10,
+  "beliefs": [
+    {
+      "topic": "health",
+      "belief": "Physical progress after injury is non-linear, and setbacks are expected parts of the recovery process.",
+      "sentiment": "neutral",
+      "confidence": 0.9,
+      "evidence": "Some days I feel like I'm moving backwards... I think I need to remind myself that it’s okay to have setbacks."
+    },
+    {
+      "topic": "identity",
+      "belief": "Past high achievements establish a baseline level of underlying resilience that can be tapped into.",
+      "sentiment": "positive",
+      "confidence": 1.0,
+      "evidence": "I was so scared, but I pushed through and completed it. That feeling of crossing the finish line was indescribable!"
+    },
+    {
+      "topic": "mindset",
+      "belief": "Sustainable motivation comes from acknowledging and celebrating small, immediate victories rather than focusing solely on a distant, large goal.",
+      "sentiment": "positive",
+      "confidence": 0.95,
+      "evidence": "Maybe I should celebrate the small victories instead of focusing on the end goal."
+    },
+    {
+      "topic": "health",
+      "belief": "New physical routines must be approached cautiously, prioritizing self-awareness over immediate intensity.",
+      "sentiment": "neutral",
+      "confidence": 1.0,
+      "evidence": "I’ll take it slow and listen to my body!"
+    },
+    {
+      "topic": "other",
+      "belief": "Anxiety about potential pain or difficulty is a normal and anticipated emotional hurdle when starting a challenging new regimen.",
+      "sentiment": "negative",
+      "confidence": 1.0,
+      "evidence": "Feeling a bit anxious about starting. What if it hurts too much?"
+    }
+  ],
+  "downstream_scores": {
+    "conversation_value_score": 7.94,
+    "dominant_theme": "Physical rehabilitation and mental adjustment to limitation",
+    "suggested_follow_up": "Since you are planning strength training, what small, non-physical reward are you looking forward to after you complete your first week of the routine?",
+    "content_tags": [
+      "anxiety",
+      "fitness",
+      "general-interest",
+      "goal-setting",
+      "life-story",
+      "medical-support",
+      "mental-health",
+      "personal-growth",
+      "physical-wellbeing",
+      "recovery",
+      "resilience",
+      "self-reflection"
+    ]
+  },
+  "raw_llm_output": null
+}

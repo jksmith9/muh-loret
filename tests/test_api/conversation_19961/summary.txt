@@ -1,0 +1,24 @@
+Conversation : 19961
+User         : 166
+Analyzed at  : 2026-04-09T18:14:59.370177Z
+Messages     : 22 total / 11 user
+
+-- Beliefs ------------------------------------------------------------------
+  1. [HEALTH] Regaining a consistent fitness routine (running and yoga) is crucial for both physical maintenance and mental well-being.
+     sentiment=positive  confidence=0.95
+     evidence: "I want to get back to running regularly and maybe even try some yoga to balance things out."
+  2. [IDENTITY] Achievement in physical activity directly correlates with a renewed sense of passion, capability, and positive self-identity.
+     sentiment=positive  confidence=1.00
+     evidence: "I think I’ve reignited my passion for running."
+  3. [LEISURE] Mind-body practices like yoga are highly valuable for achieving emotional balance and deep relaxation.
+     sentiment=positive  confidence=0.90
+     evidence: "I really need to stretch! ... I really missed that sense of calm that it brings."
+  4. [AUTONOMY] The user believes in their own capacity to commit to and sustain goals when focused on a desired outcome.
+     sentiment=positive  confidence=0.90
+     evidence: "I’m feeling really committed this week! It’s nice to have some goals to focus on."
+
+-- Downstream Scores --------------------------------------------------------
+  Value score    : 7.88 / 10
+  Dominant theme : Rebuilding and maintaining a consistent wellness routine
+  Follow-up      : Since you've established a great running and yoga rhythm, what small physical goal could we tackle next week to keep the momentum going?
+  Content tags   : aging-in-place, creative-activities, entertainment, fitness, goal-setting, hobbies, independence, life-story, medical-support, mental-health, personal-growth, physical-wellbeing, running, self-care, self-reflection, wellness, yoga

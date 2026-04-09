@@ -1,0 +1,64 @@
+{
+  "ref_conversation_id": 65024,
+  "ref_user_id": 328,
+  "analyzed_at": "2026-04-09T18:18:06.714950Z",
+  "message_count": 28,
+  "user_message_count": 14,
+  "beliefs": [
+    {
+      "topic": "other",
+      "belief": "Daily life responsibilities (work and family) are profoundly draining and overwhelming.",
+      "sentiment": "negative",
+      "confidence": 1.0,
+      "evidence": "Juggling work and family responsibilities is so tiring."
+    },
+    {
+      "topic": "family",
+      "belief": "I must not inconvenience or place emotional burdens on my family members.",
+      "sentiment": "negative",
+      "confidence": 1.0,
+      "evidence": "I don’t want to burden them."
+    },
+    {
+      "topic": "leisure",
+      "belief": "Rediscovering past hobbies is a healthy and necessary way to process emotions and regain balance.",
+      "sentiment": "positive",
+      "confidence": 0.9,
+      "evidence": "I used to love painting... an enjoyable way to unwind and process my emotions."
+    },
+    {
+      "topic": "self-identity",
+      "belief": "Taking small, intentional actions (like gratitude journaling) can effectively break negative emotional cycles.",
+      "sentiment": "positive",
+      "confidence": 0.9,
+      "evidence": "I started writing down my gratefulness. It’s surprisingly uplifting!"
+    },
+    {
+      "topic": "family",
+      "belief": "Openly sharing my feelings with my children is not a burden, but actually strengthens our relationship.",
+      "sentiment": "positive",
+      "confidence": 1.0,
+      "evidence": "I spoke to my kids about my feelings... I think it brought us closer."
+    }
+  ],
+  "downstream_scores": {
+    "conversation_value_score": 6.92,
+    "dominant_theme": "Rebuilding personal energy and establishing healthy self-care routines through connection and rediscovered interests.",
+    "suggested_follow_up": "Since you mentioned painting could be a good outlet, perhaps we could brainstorm some beginner painting ideas or materials you might want to explore?",
+    "content_tags": [
+      "caregiving",
+      "creative-activities",
+      "entertainment",
+      "family-connection",
+      "family-support",
+      "general-interest",
+      "gratitude",
+      "hobbies",
+      "overwhelm",
+      "rediscovery",
+      "relationships",
+      "self-care"
+    ]
+  },
+  "raw_llm_output": null
+}

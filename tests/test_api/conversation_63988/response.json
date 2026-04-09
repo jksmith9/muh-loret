@@ -1,0 +1,63 @@
+{
+  "ref_conversation_id": 63988,
+  "ref_user_id": 141,
+  "analyzed_at": "2026-04-09T18:20:55.957926Z",
+  "message_count": 30,
+  "user_message_count": 15,
+  "beliefs": [
+    {
+      "topic": "health",
+      "belief": "Making changes to health requires effort, which can initially feel overwhelming.",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "I guess it’s just the thought of the effort involved. Sometimes it feels overwhelming."
+    },
+    {
+      "topic": "health",
+      "belief": "Small, incremental actions lead to positive feelings and capability.",
+      "sentiment": "positive",
+      "confidence": 0.95,
+      "evidence": "It went surprisingly well! I felt good afterward. I think I can expand on this."
+    },
+    {
+      "topic": "health",
+      "belief": "Consistency and sustained effort are achievable goals.",
+      "sentiment": "positive",
+      "confidence": 0.9,
+      "evidence": "I think I might really be able to stick to this."
+    },
+    {
+      "topic": "identity",
+      "belief": "The user has the capacity and motivation to improve their lifestyle significantly.",
+      "sentiment": "positive",
+      "confidence": 1.0,
+      "evidence": "I can definitely do that! You know what? I think I *can* do this! I’m feeling inspired!"
+    },
+    {
+      "topic": "health",
+      "belief": "Support systems (like friends) are crucial for maintaining healthy habits.",
+      "sentiment": "positive",
+      "confidence": 0.9,
+      "evidence": "I think I’m going to run with a friend this weekend! That’ll help keep me accountable."
+    }
+  ],
+  "downstream_scores": {
+    "conversation_value_score": 7.86,
+    "dominant_theme": "Building and maintaining sustainable healthy habits through small, consistent effort.",
+    "suggested_follow_up": "Considering your goal to run 5K by October, what small step could you take toward that specific target this week?",
+    "content_tags": [
+      "diet",
+      "fitness",
+      "goal-setting",
+      "health",
+      "life-story",
+      "medical-support",
+      "mental-health",
+      "motivation",
+      "personal-growth",
+      "physical-wellbeing",
+      "self-reflection"
+    ]
+  },
+  "raw_llm_output": null
+}

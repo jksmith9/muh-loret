@@ -1,0 +1,27 @@
+Conversation : 65024
+User         : 328
+Analyzed at  : 2026-04-09T18:18:06.714950Z
+Messages     : 28 total / 14 user
+
+-- Beliefs ------------------------------------------------------------------
+  1. [OTHER] Daily life responsibilities (work and family) are profoundly draining and overwhelming.
+     sentiment=negative  confidence=1.00
+     evidence: "Juggling work and family responsibilities is so tiring."
+  2. [FAMILY] I must not inconvenience or place emotional burdens on my family members.
+     sentiment=negative  confidence=1.00
+     evidence: "I don’t want to burden them."
+  3. [LEISURE] Rediscovering past hobbies is a healthy and necessary way to process emotions and regain balance.
+     sentiment=positive  confidence=0.90
+     evidence: "I used to love painting... an enjoyable way to unwind and process my emotions."
+  4. [SELF-IDENTITY] Taking small, intentional actions (like gratitude journaling) can effectively break negative emotional cycles.
+     sentiment=positive  confidence=0.90
+     evidence: "I started writing down my gratefulness. It’s surprisingly uplifting!"
+  5. [FAMILY] Openly sharing my feelings with my children is not a burden, but actually strengthens our relationship.
+     sentiment=positive  confidence=1.00
+     evidence: "I spoke to my kids about my feelings... I think it brought us closer."
+
+-- Downstream Scores --------------------------------------------------------
+  Value score    : 6.92 / 10
+  Dominant theme : Rebuilding personal energy and establishing healthy self-care routines through connection and rediscovered interests.
+  Follow-up      : Since you mentioned painting could be a good outlet, perhaps we could brainstorm some beginner painting ideas or materials you might want to explore?
+  Content tags   : caregiving, creative-activities, entertainment, family-connection, family-support, general-interest, gratitude, hobbies, overwhelm, rediscovery, relationships, self-care

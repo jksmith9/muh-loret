@@ -1,0 +1,48 @@
+{
+  "ref_conversation_id": 92818,
+  "ref_user_id": 66,
+  "analyzed_at": "2026-04-09T18:15:36.658760Z",
+  "message_count": 21,
+  "user_message_count": 11,
+  "beliefs": [
+    {
+      "topic": "health",
+      "belief": "Taking proactive, consistent steps toward health improvements is empowering and valuable.",
+      "sentiment": "positive",
+      "confidence": 1.0,
+      "evidence": "It’s empowering to make these changes, but I still need to manage my foot pain."
+    },
+    {
+      "topic": "health",
+      "belief": "Current physical pain significantly limits the user's ability to engage in preferred activities.",
+      "sentiment": "negative",
+      "confidence": 1.0,
+      "evidence": "It’s frustrating because I love being active! But I need to take it easy."
+    },
+    {
+      "topic": "identity",
+      "belief": "Significant self-improvement requires patience and an understanding that progress is incremental, not immediate.",
+      "sentiment": "positive",
+      "confidence": 0.9,
+      "evidence": "It’s slow, but I'm being patient. It’s hard, but it’s necessary!"
+    }
+  ],
+  "downstream_scores": {
+    "conversation_value_score": 7.93,
+    "dominant_theme": "Navigating lifestyle changes while managing chronic physical limitations",
+    "suggested_follow_up": "As you continue implementing these changes, what small enjoyable routine could we plan for when your foot feels better?",
+    "content_tags": [
+      "activity-modification",
+      "health-and-wellness",
+      "life-story",
+      "medical-support",
+      "mental-health",
+      "nutrition",
+      "personal-growth",
+      "physical-wellbeing",
+      "plantar-fasciitis",
+      "self-reflection"
+    ]
+  },
+  "raw_llm_output": null
+}

@@ -1,0 +1,83 @@
+{
+  "ref_conversation_id": 44114,
+  "ref_user_id": 918,
+  "analyzed_at": "2026-04-09T18:23:46.476048Z",
+  "message_count": 54,
+  "user_message_count": 27,
+  "beliefs": [
+    {
+      "topic": "health",
+      "belief": "Consistent physical activity and challenge lead to tangible self-improvement and satisfaction.",
+      "sentiment": "positive",
+      "confidence": 1.0,
+      "evidence": "I did a mix of cardio and strength training... I want to improve my time from last year."
+    },
+    {
+      "topic": "autonomy",
+      "belief": "Maintaining boundaries between work and personal life is necessary for well-being.",
+      "sentiment": "positive",
+      "confidence": 1.0,
+      "evidence": "I’ve been setting firm boundaries for my work hours. I also block off time for myself to relax and unwind."
+    },
+    {
+      "topic": "leisure",
+      "belief": "Engaging in hands-on, natural activities provides deep satisfaction and relaxation.",
+      "sentiment": "positive",
+      "confidence": 1.0,
+      "evidence": "Watching them grow is so satisfying! ...It’s therapeutic!"
+    },
+    {
+      "topic": "community",
+      "belief": "Social support and friendly competition enhance enjoyment and performance in activities.",
+      "sentiment": "positive",
+      "confidence": 1.0,
+      "evidence": "I like to run with a friend sometimes. We push each other, and it’s much more fun that way!"
+    },
+    {
+      "topic": "family",
+      "belief": "Time spent with family, especially younger relatives, is highly valuable and joyful.",
+      "sentiment": "positive",
+      "confidence": 1.0,
+      "evidence": "Just some quality time with my grandchildren! We’re planning to play some board games together."
+    },
+    {
+      "topic": "identity",
+      "belief": "I am capable of setting increasingly difficult goals and achieving them.",
+      "sentiment": "positive",
+      "confidence": 1.0,
+      "evidence": "I'm thinking of training for a half marathon! It sounds challenging, but exhilarating too!"
+    }
+  ],
+  "downstream_scores": {
+    "conversation_value_score": 9.0,
+    "dominant_theme": "Goal Attainment and Sustained Self-Improvement",
+    "suggested_follow_up": "As you plan for the half marathon, what area—training, nutrition, or rest—are you most eager to focus on next?",
+    "content_tags": [
+      "aging-in-place",
+      "caregiving",
+      "community-events",
+      "creative-activities",
+      "entertainment",
+      "family",
+      "family-support",
+      "fitness",
+      "gardening",
+      "goal-setting",
+      "hobbies",
+      "independence",
+      "life-story",
+      "medical-support",
+      "mental-health",
+      "peer-support",
+      "personal-growth",
+      "physical-wellbeing",
+      "relationships",
+      "running",
+      "self-care",
+      "self-reflection",
+      "social-connection",
+      "work-life-balance"
+    ]
+  },
+  "raw_llm_output": null
+}

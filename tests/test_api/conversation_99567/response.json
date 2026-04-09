@@ -1,0 +1,63 @@
+{
+  "ref_conversation_id": 99567,
+  "ref_user_id": 978,
+  "analyzed_at": "2026-04-09T18:19:19.161576Z",
+  "message_count": 26,
+  "user_message_count": 13,
+  "beliefs": [
+    {
+      "topic": "health",
+      "belief": "Physical activity significantly boosts my mood and energy levels.",
+      "sentiment": "positive",
+      "confidence": 1.0,
+      "evidence": "I feel more energetic during the day."
+    },
+    {
+      "topic": "identity",
+      "belief": "I am capable of establishing and maintaining varied, healthy routines even when life is hectic.",
+      "sentiment": "positive",
+      "confidence": 0.95,
+      "evidence": "I'm managing to fit in my workouts! ... I'm sticking to my workouts!"
+    },
+    {
+      "topic": "community",
+      "belief": "Sharing fitness experiences with others enhances the motivation and enjoyment of the activity.",
+      "sentiment": "positive",
+      "confidence": 1.0,
+      "evidence": "It's nice sharing the experience with others."
+    },
+    {
+      "topic": "leisure",
+      "belief": "Engaging in diverse forms of exercise provides different but equally valuable benefits (e.g., relaxation vs. cardio).",
+      "sentiment": "positive",
+      "confidence": 0.9,
+      "evidence": "It's a different kind of workout and really helps me relax. I love running outdoors!"
+    }
+  ],
+  "downstream_scores": {
+    "conversation_value_score": 8.93,
+    "dominant_theme": "Commitment to and Enjoyment of Varied Fitness Routines",
+    "suggested_follow_up": "Since you've successfully added swimming to your routine, what part of the sport do you find most challenging or most rewarding right now?",
+    "content_tags": [
+      "community-events",
+      "creative-activities",
+      "entertainment",
+      "fitness",
+      "hobbies",
+      "life-story",
+      "medical-support",
+      "mental-health",
+      "motivation",
+      "peer-support",
+      "personal-growth",
+      "physical-wellbeing",
+      "routine",
+      "self-reflection",
+      "social-connection",
+      "swimming",
+      "wellness",
+      "yoga"
+    ]
+  },
+  "raw_llm_output": null
+}

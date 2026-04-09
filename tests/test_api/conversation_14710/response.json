@@ -1,0 +1,51 @@
+{
+  "ref_conversation_id": 14710,
+  "ref_user_id": 604,
+  "analyzed_at": "2026-04-09T18:16:52.248055Z",
+  "message_count": 23,
+  "user_message_count": 12,
+  "beliefs": [
+    {
+      "topic": "Health",
+      "belief": "Managing life's demands requires dedicated time and effort for self-care.",
+      "sentiment": "neutral",
+      "confidence": 0.9,
+      "evidence": "Although lately, life has been busy with work and home projects. Honestly, it can be exhausting."
+    },
+    {
+      "topic": "Family",
+      "belief": "My partner's input and presence are crucial sources of validation, guidance, and motivation.",
+      "sentiment": "positive",
+      "confidence": 1.0,
+      "evidence": "My partner is reading this too and said I should ask you if it's safe to go hiking alone."
+    },
+    {
+      "topic": "Leisure",
+      "belief": "Learning new skills, especially when done as a couple, is highly enjoyable and strengthens bonds.",
+      "sentiment": "positive",
+      "confidence": 0.9,
+      "evidence": "Plus, it’ll be fun to learn new skills together!"
+    },
+    {
+      "topic": "Technology",
+      "belief": "Conversing about emotional topics with StoryBot provides immediate, positive emotional release.",
+      "sentiment": "positive",
+      "confidence": 1.0,
+      "evidence": "Thanks! I feel better just talking about it."
+    }
+  ],
+  "downstream_scores": {
+    "conversation_value_score": 5.9,
+    "dominant_theme": "Strengthening the relationship through shared, positive experiences",
+    "suggested_follow_up": "Since the cooking class was such a success, what other collaborative, hands-on activities are you and your partner interested in trying next?",
+    "content_tags": [
+      "general-interest",
+      "learning",
+      "relationship-goals",
+      "self-care",
+      "shared-activities",
+      "well-being"
+    ]
+  },
+  "raw_llm_output": null
+}

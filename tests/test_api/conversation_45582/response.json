@@ -1,0 +1,49 @@
+{
+  "ref_conversation_id": 45582,
+  "ref_user_id": 994,
+  "analyzed_at": "2026-04-09T18:13:09.729580Z",
+  "message_count": 5,
+  "user_message_count": 3,
+  "beliefs": [
+    {
+      "topic": "technology",
+      "belief": "The companion app is unreliable and causes significant frustration.",
+      "sentiment": "negative",
+      "confidence": 1.0,
+      "evidence": "It keeps freezing on me!"
+    },
+    {
+      "topic": "health",
+      "belief": "Physical mobility is limited and challenging due to recurring knee issues.",
+      "sentiment": "negative",
+      "confidence": 1.0,
+      "evidence": "my knees have been acting up. Makes it hard to get around!"
+    },
+    {
+      "topic": "other",
+      "belief": "The user holds hope that upcoming appointments will lead to functional improvements in multiple areas of life.",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "Hope this app works better by then!"
+    }
+  ],
+  "downstream_scores": {
+    "conversation_value_score": 5.47,
+    "dominant_theme": "Managing concurrent limitations (physical and digital)",
+    "suggested_follow_up": "Dealing with both tech glitches and physical pain sounds exhausting; is there one area right now where I can help you feel less frustrated?",
+    "content_tags": [
+      "app-help",
+      "digital-literacy",
+      "frustration",
+      "general-interest",
+      "health",
+      "medical-support",
+      "mental-health",
+      "mobility",
+      "physical-wellbeing",
+      "tech-support",
+      "technology"
+    ]
+  },
+  "raw_llm_output": null
+}

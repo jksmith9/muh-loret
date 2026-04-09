@@ -1,0 +1,58 @@
+{
+  "ref_conversation_id": 98696,
+  "ref_user_id": 782,
+  "analyzed_at": "2026-04-09T18:12:36.633870Z",
+  "message_count": 20,
+  "user_message_count": 10,
+  "beliefs": [
+    {
+      "topic": "Technology",
+      "belief": "Modern technology and applications are complicated and overwhelming, leading to feelings of incompetence.",
+      "sentiment": "negative",
+      "confidence": 1.0,
+      "evidence": "It's just so complicated! I keep hitting the wrong buttons."
+    },
+    {
+      "topic": "Autonomy",
+      "belief": "Remaining in one's own familiar home is fundamentally important for personal well-being and identity.",
+      "sentiment": "positive",
+      "confidence": 1.0,
+      "evidence": "I don’t want to leave my home."
+    },
+    {
+      "topic": "Family",
+      "belief": "When immediate family support is unavailable due to their own commitments, the individual feels helpless and isolated.",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "My grandson usually helps, but he’s busy with school lately. I feel so helpless."
+    },
+    {
+      "topic": "Health",
+      "belief": "Physical incidents (like falls) are transformative moments that reinforce the value of personal caution and resilience.",
+      "sentiment": "positive",
+      "confidence": 1.0,
+      "evidence": "I thought I broke my hip then, but I learned to always be careful and mindful. That taught me to value my health and strength."
+    },
+    {
+      "topic": "Leisure",
+      "belief": "Consistent, enjoyable routines (like stories) are necessary to maintain emotional stability and spirits.",
+      "sentiment": "positive",
+      "confidence": 1.0,
+      "evidence": "I’d like to read the daily stories! They used to lift my spirits."
+    }
+  ],
+  "downstream_scores": {
+    "conversation_value_score": 5.96,
+    "dominant_theme": "Balancing the Desire for Autonomy Against Physical Limitations",
+    "suggested_follow_up": "Since you feel 'manageable' about talking to your daughter, what part of that conversation do you feel best prepared to approach next?",
+    "content_tags": [
+      "aging",
+      "autonomy",
+      "general-interest",
+      "home-safety",
+      "self-efficacy",
+      "technology-difficulty"
+    ]
+  },
+  "raw_llm_output": null
+}

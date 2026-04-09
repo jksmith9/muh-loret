@@ -1,0 +1,24 @@
+Conversation : 66931
+User         : 648
+Analyzed at  : 2026-04-09T18:13:33.268394Z
+Messages     : 22 total / 11 user
+
+-- Beliefs ------------------------------------------------------------------
+  1. [HEALTH] My anxiety levels are currently high and disrupt my daily functioning.
+     sentiment=negative  confidence=1.00
+     evidence: "My anxiety is acting up again."
+  2. [HEALTH] My fear of a seizure relapse severely limits my ability to engage in routine physical activities.
+     sentiment=negative  confidence=1.00
+     evidence: "I was going to try to go for a walk, but I'm worried what if I have another seizure."
+  3. [TECHNOLOGY] External support systems (like StoryBot) are genuinely helpful for immediate emotional regulation.
+     sentiment=positive  confidence=1.00
+     evidence: "Thanks, StoryBot. I really appreciate your support!"
+  4. [HEALTH] Disclosing the details of seizures to medical professionals is a crucial and non-negotiable requirement.
+     sentiment=neutral  confidence=1.00
+     evidence: "I need to tell them about the seizures for sure."
+
+-- Downstream Scores --------------------------------------------------------
+  Value score    : 7.0 / 10
+  Dominant theme : Managing anxiety and limiting behaviors stemming from a chronic health condition (epilepsy/seizures).
+  Follow-up      : Since telling your doctors is a priority, would it help to talk through what you are most worried about when you discuss this next week?
+  Content tags   : anxiety, app-help, coping-mechanisms, digital-literacy, health-management, medical-support, mental-health, physical-wellbeing, seizures, support, tech-support

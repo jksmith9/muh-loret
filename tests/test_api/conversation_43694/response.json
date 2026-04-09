@@ -1,0 +1,71 @@
+{
+  "ref_conversation_id": 43694,
+  "ref_user_id": 346,
+  "analyzed_at": "2026-04-09T18:14:10.988963Z",
+  "message_count": 19,
+  "user_message_count": 10,
+  "beliefs": [
+    {
+      "topic": "autonomy",
+      "belief": "Managing work obligations and family life is an exhausting, difficult balancing act.",
+      "sentiment": "negative",
+      "confidence": 0.95,
+      "evidence": "Sometimes I just need a breather! ... just trying to keep the balance with work and family."
+    },
+    {
+      "topic": "health",
+      "belief": "Physical activity (like jogging or yoga) is a crucial, effective method for mental decompression and stress relief.",
+      "sentiment": "positive",
+      "confidence": 1.0,
+      "evidence": "It really helps clear my mind."
+    },
+    {
+      "topic": "family",
+      "belief": "Spending time with family, particularly with the child, provides profound joy and acts as a welcome escape from daily stressors.",
+      "sentiment": "positive",
+      "confidence": 1.0,
+      "evidence": "Watching my kid play is such a joy. It makes me forget the hectic day."
+    },
+    {
+      "topic": "leisure",
+      "belief": "Shared natural experiences, like hikes, are the best way to create lasting, meaningful memories.",
+      "sentiment": "positive",
+      "confidence": 0.9,
+      "evidence": "Great for making memories!"
+    },
+    {
+      "topic": "identity",
+      "belief": "The user identifies as a caregiver who must actively manage personal time alongside external demands.",
+      "sentiment": "neutral",
+      "confidence": 0.8,
+      "evidence": "I’m trying to juggle everything."
+    }
+  ],
+  "downstream_scores": {
+    "conversation_value_score": 8.86,
+    "dominant_theme": "The struggle for work-life balance and rejuvenation.",
+    "suggested_follow_up": "Given how much you're balancing right now, what is one small thing you could do for yourself this week just to recharge?",
+    "content_tags": [
+      "activity",
+      "aging-in-place",
+      "caregiving",
+      "creative-activities",
+      "entertainment",
+      "exhaustion",
+      "family-support",
+      "hobbies",
+      "independence",
+      "life-story",
+      "medical-support",
+      "mental-health",
+      "parenting",
+      "personal-growth",
+      "physical-wellbeing",
+      "relationships",
+      "self-care",
+      "self-reflection",
+      "work-life-balance"
+    ]
+  },
+  "raw_llm_output": null
+}

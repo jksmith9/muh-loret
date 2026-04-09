@@ -1,0 +1,4 @@
+{
+  "error": "{\"detail\":\"Belief extraction failed. Ensure Ollama is running and the gemma4:e4b model is pulled. Detail: Server disconnected without sending a response.\"}",
+  "status_code": 503
+}

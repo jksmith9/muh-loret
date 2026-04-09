@@ -1,0 +1,21 @@
+Conversation : 45582
+User         : 994
+Analyzed at  : 2026-04-09T18:13:09.729580Z
+Messages     : 5 total / 3 user
+
+-- Beliefs ------------------------------------------------------------------
+  1. [TECHNOLOGY] The companion app is unreliable and causes significant frustration.
+     sentiment=negative  confidence=1.00
+     evidence: "It keeps freezing on me!"
+  2. [HEALTH] Physical mobility is limited and challenging due to recurring knee issues.
+     sentiment=negative  confidence=1.00
+     evidence: "my knees have been acting up. Makes it hard to get around!"
+  3. [OTHER] The user holds hope that upcoming appointments will lead to functional improvements in multiple areas of life.
+     sentiment=positive  confidence=0.80
+     evidence: "Hope this app works better by then!"
+
+-- Downstream Scores --------------------------------------------------------
+  Value score    : 5.47 / 10
+  Dominant theme : Managing concurrent limitations (physical and digital)
+  Follow-up      : Dealing with both tech glitches and physical pain sounds exhausting; is there one area right now where I can help you feel less frustrated?
+  Content tags   : app-help, digital-literacy, frustration, general-interest, health, medical-support, mental-health, mobility, physical-wellbeing, tech-support, technology

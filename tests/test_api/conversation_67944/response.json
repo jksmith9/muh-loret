@@ -1,0 +1,60 @@
+{
+  "ref_conversation_id": 67944,
+  "ref_user_id": 761,
+  "analyzed_at": "2026-04-09T18:20:00.419486Z",
+  "message_count": 21,
+  "user_message_count": 11,
+  "beliefs": [
+    {
+      "topic": "leisure",
+      "belief": "My current routines are insufficient and causing me to feel disconnected.",
+      "sentiment": "negative",
+      "confidence": 1.0,
+      "evidence": "I’ve been stuck in the same routines."
+    },
+    {
+      "topic": "health",
+      "belief": "I experience periods of low energy and dullness when I am stagnant.",
+      "sentiment": "negative",
+      "confidence": 0.95,
+      "evidence": "Everything just seemed dull and flat,"
+    },
+    {
+      "topic": "autonomy",
+      "belief": "I have the agency to change my mindset and actively improve my situation.",
+      "sentiment": "positive",
+      "confidence": 1.0,
+      "evidence": "I really want to change my mindset and approach things more positively."
+    },
+    {
+      "topic": "other",
+      "belief": "Making changes involves inherent anxiety and the fear of unmet expectations.",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "But what if it doesn’t live up to my expectations? 😔"
+    }
+  ],
+  "downstream_scores": {
+    "conversation_value_score": 8.93,
+    "dominant_theme": "The proactive effort to break inertia and regain vitality through new experiences.",
+    "suggested_follow_up": "Since you are planning to give it a shot, what is one small, low-stakes action you could take this week to feel that initial spark?",
+    "content_tags": [
+      "aging-in-place",
+      "anxiety",
+      "creative-activities",
+      "emotional-dip",
+      "entertainment",
+      "general-interest",
+      "hobbies",
+      "independence",
+      "medical-support",
+      "mental-health",
+      "nature-connection",
+      "physical-wellbeing",
+      "routine-breaking",
+      "self-care",
+      "self-improvement"
+    ]
+  },
+  "raw_llm_output": null
+}

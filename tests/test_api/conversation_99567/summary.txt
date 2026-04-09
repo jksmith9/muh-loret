@@ -1,0 +1,24 @@
+Conversation : 99567
+User         : 978
+Analyzed at  : 2026-04-09T18:19:19.161576Z
+Messages     : 26 total / 13 user
+
+-- Beliefs ------------------------------------------------------------------
+  1. [HEALTH] Physical activity significantly boosts my mood and energy levels.
+     sentiment=positive  confidence=1.00
+     evidence: "I feel more energetic during the day."
+  2. [IDENTITY] I am capable of establishing and maintaining varied, healthy routines even when life is hectic.
+     sentiment=positive  confidence=0.95
+     evidence: "I'm managing to fit in my workouts! ... I'm sticking to my workouts!"
+  3. [COMMUNITY] Sharing fitness experiences with others enhances the motivation and enjoyment of the activity.
+     sentiment=positive  confidence=1.00
+     evidence: "It's nice sharing the experience with others."
+  4. [LEISURE] Engaging in diverse forms of exercise provides different but equally valuable benefits (e.g., relaxation vs. cardio).
+     sentiment=positive  confidence=0.90
+     evidence: "It's a different kind of workout and really helps me relax. I love running outdoors!"
+
+-- Downstream Scores --------------------------------------------------------
+  Value score    : 8.93 / 10
+  Dominant theme : Commitment to and Enjoyment of Varied Fitness Routines
+  Follow-up      : Since you've successfully added swimming to your routine, what part of the sport do you find most challenging or most rewarding right now?
+  Content tags   : community-events, creative-activities, entertainment, fitness, hobbies, life-story, medical-support, mental-health, motivation, peer-support, personal-growth, physical-wellbeing, routine, self-reflection, social-connection, swimming, wellness, yoga

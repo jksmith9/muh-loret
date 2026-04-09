@@ -1,0 +1,24 @@
+Conversation : 14710
+User         : 604
+Analyzed at  : 2026-04-09T18:16:52.248055Z
+Messages     : 23 total / 12 user
+
+-- Beliefs ------------------------------------------------------------------
+  1. [HEALTH] Managing life's demands requires dedicated time and effort for self-care.
+     sentiment=neutral  confidence=0.90
+     evidence: "Although lately, life has been busy with work and home projects. Honestly, it can be exhausting."
+  2. [FAMILY] My partner's input and presence are crucial sources of validation, guidance, and motivation.
+     sentiment=positive  confidence=1.00
+     evidence: "My partner is reading this too and said I should ask you if it's safe to go hiking alone."
+  3. [LEISURE] Learning new skills, especially when done as a couple, is highly enjoyable and strengthens bonds.
+     sentiment=positive  confidence=0.90
+     evidence: "Plus, it’ll be fun to learn new skills together!"
+  4. [TECHNOLOGY] Conversing about emotional topics with StoryBot provides immediate, positive emotional release.
+     sentiment=positive  confidence=1.00
+     evidence: "Thanks! I feel better just talking about it."
+
+-- Downstream Scores --------------------------------------------------------
+  Value score    : 5.9 / 10
+  Dominant theme : Strengthening the relationship through shared, positive experiences
+  Follow-up      : Since the cooking class was such a success, what other collaborative, hands-on activities are you and your partner interested in trying next?
+  Content tags   : general-interest, learning, relationship-goals, self-care, shared-activities, well-being

@@ -1,0 +1,24 @@
+Conversation : 12179
+User         : 439
+Analyzed at  : 2026-04-09T18:22:18.080820Z
+Messages     : 20 total / 10 user
+
+-- Beliefs ------------------------------------------------------------------
+  1. [HEALTH] Engaging in physical activity, even when imperfect, leads to increased energy and positive mood.
+     sentiment=positive  confidence=1.00
+     evidence: "Feeling energized and ready to tackle the day!"
+  2. [COMMUNITY] Socializing and having external accountability enhances personal motivation and goal achievement.
+     sentiment=positive  confidence=1.00
+     evidence: "It’s nice to have a mix of health and social time!"
+  3. [IDENTITY] Setbacks are temporary, and I have the resilience to restart my positive habits.
+     sentiment=positive  confidence=0.90
+     evidence: "I’ll try to roll out my mat and do something light."
+  4. [AUTONOMY] I must be proactive and consistent in creating my own routines to achieve my goals.
+     sentiment=positive  confidence=0.90
+     evidence: "Just gotta get moving!"
+
+-- Downstream Scores --------------------------------------------------------
+  Value score    : 5.9 / 10
+  Dominant theme : Establishing and maintaining a sustainable wellness routine through social support
+  Follow-up      : Given how motivated you sound now, what small reward do you feel you’ve earned for sticking to your new routine this week?
+  Content tags   : general-interest, health, routine, social-support, wellness, yoga

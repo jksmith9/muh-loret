@@ -1,0 +1,64 @@
+{
+  "ref_conversation_id": 97302,
+  "ref_user_id": 367,
+  "analyzed_at": "2026-04-09T18:25:04.978369Z",
+  "message_count": 32,
+  "user_message_count": 16,
+  "beliefs": [
+    {
+      "topic": "leisure",
+      "belief": "Physical outdoor activities, especially hiking, provide deeply rewarding emotional satisfaction.",
+      "sentiment": "positive",
+      "confidence": 1.0,
+      "evidence": "It felt so rewarding after the climb."
+    },
+    {
+      "topic": "other",
+      "belief": "Achieving overall well-being requires consciously finding and maintaining a balance between exciting adventures and dedicated periods of rest.",
+      "sentiment": "positive",
+      "confidence": 1.0,
+      "evidence": "I’ve realized I need to find more balance. I love my adventures, but I also need downtime."
+    },
+    {
+      "topic": "identity",
+      "belief": "Engaging in creative hobbies is a deeply satisfying and necessary form of personal expression.",
+      "sentiment": "positive",
+      "confidence": 1.0,
+      "evidence": "It feels great to express myself."
+    },
+    {
+      "topic": "other",
+      "belief": "Routine self-care practices, such as walking or journaling, are effective tools for managing feelings of work-related overwhelm.",
+      "sentiment": "positive",
+      "confidence": 0.9,
+      "evidence": "I’ve even started journaling there. It’s a great escape from work."
+    },
+    {
+      "topic": "leisure",
+      "belief": "Having enjoyable options or choices (like books) enhances the experience.",
+      "sentiment": "positive",
+      "confidence": 0.8,
+      "evidence": "I tend to read more pages when I have options."
+    }
+  ],
+  "downstream_scores": {
+    "conversation_value_score": 5.88,
+    "dominant_theme": "The proactive pursuit of work-life balance through self-care and hobbies.",
+    "suggested_follow_up": "Since you've successfully incorporated painting and gardening, what's one small, low-effort change you could commit to next week to keep building on this positive momentum?",
+    "content_tags": [
+      "creative-activities",
+      "entertainment",
+      "general-interest",
+      "hobbies",
+      "hobby",
+      "leisure",
+      "life-story",
+      "personal-growth",
+      "self-improvement",
+      "self-reflection",
+      "stress-management",
+      "wellness"
+    ]
+  },
+  "raw_llm_output": null
+}

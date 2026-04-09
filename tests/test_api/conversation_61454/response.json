@@ -1,0 +1,58 @@
+{
+  "ref_conversation_id": 61454,
+  "ref_user_id": 259,
+  "analyzed_at": "2026-04-09T18:23:00.625883Z",
+  "message_count": 21,
+  "user_message_count": 11,
+  "beliefs": [
+    {
+      "topic": "leisure",
+      "belief": "Experiencing enjoyable, entertaining activities (like movies) is a legitimate and positive way to spend time.",
+      "sentiment": "positive",
+      "confidence": 0.9,
+      "evidence": "I didn't get to read last night - I ended up watching a movie instead. It was fun!"
+    },
+    {
+      "topic": "autonomy",
+      "belief": "The ability to manage daily tasks and personal goals is achievable, though temptations for immediate fun can derail plans.",
+      "sentiment": "neutral",
+      "confidence": 0.8,
+      "evidence": "I have some grocery shopping, laundry, and I want to start a new book... I didn't get to read last night..."
+    },
+    {
+      "topic": "leisure",
+      "belief": "Engaging with narratives that explore deep philosophical concepts (like alternate lives) is mentally captivating and thought-provoking.",
+      "sentiment": "positive",
+      "confidence": 1.0,
+      "evidence": "I love the idea of exploring alternate lives based on choices. It’s really got me thinking!"
+    },
+    {
+      "topic": "community",
+      "belief": "External encouragement from others helps motivate the user to engage with activities they value.",
+      "sentiment": "positive",
+      "confidence": 0.95,
+      "evidence": "Thanks for encouraging me to pick it up!"
+    }
+  ],
+  "downstream_scores": {
+    "conversation_value_score": 7.83,
+    "dominant_theme": "Balancing productive responsibilities with intellectual and recreational pleasure",
+    "suggested_follow_up": "Since you found the idea of alternate lives so thought-provoking, what life choice do you think you'd explore first if you had the chance?",
+    "content_tags": [
+      "aging-in-place",
+      "community-events",
+      "creative-activities",
+      "entertainment",
+      "hobbies",
+      "independence",
+      "leisure",
+      "literature",
+      "peer-support",
+      "productivity",
+      "reading",
+      "self-care",
+      "social-connection"
+    ]
+  },
+  "raw_llm_output": null
+}

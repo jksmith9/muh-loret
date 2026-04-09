@@ -1,0 +1,70 @@
+{
+  "ref_conversation_id": 18947,
+  "ref_user_id": 294,
+  "analyzed_at": "2026-04-09T18:24:25.347330Z",
+  "message_count": 28,
+  "user_message_count": 14,
+  "beliefs": [
+    {
+      "topic": "health",
+      "belief": "Monotonous routines are dissatisfying, and physical activity needs variety to remain engaging.",
+      "sentiment": "negative",
+      "confidence": 0.95,
+      "evidence": "I used to enjoy yoga, but now I feel like I do the same thing every week."
+    },
+    {
+      "topic": "autonomy",
+      "belief": "Setting clear boundaries is necessary to protect personal time and prevent burnout from work.",
+      "sentiment": "positive",
+      "confidence": 1.0,
+      "evidence": "I believe I need to set clearer boundaries at work to have more time for myself."
+    },
+    {
+      "topic": "spirituality",
+      "belief": "Dedicated time for quiet self-reflection (like meditation) is highly effective for managing stress and achieving mental clarity.",
+      "sentiment": "positive",
+      "confidence": 0.9,
+      "evidence": "I believe taking that time for myself really helps me feel centered."
+    },
+    {
+      "topic": "leisure",
+      "belief": "Creative outlets, particularly art, serve as vital and therapeutic methods for emotional expression and happiness.",
+      "sentiment": "positive",
+      "confidence": 1.0,
+      "evidence": "Art has always been a source of happiness for me... I think diving back into art will be therapeutic for me."
+    },
+    {
+      "topic": "identity",
+      "belief": "Consistent effort and embracing new challenges are necessary to build self-confidence and physical strength.",
+      "sentiment": "positive",
+      "confidence": 0.95,
+      "evidence": "I felt empowering, and I believe I can get stronger with practice."
+    }
+  ],
+  "downstream_scores": {
+    "conversation_value_score": 8.92,
+    "dominant_theme": "Proactive Self-Improvement and Re-establishment of Balance",
+    "suggested_follow_up": "Given how successfully you've tackled physical, mental, and creative goals, what small 'anchor' routine could help solidify this sense of renewal?",
+    "content_tags": [
+      "aging-in-place",
+      "boundary-setting",
+      "creative-activities",
+      "creative-outlets",
+      "entertainment",
+      "faith",
+      "hobbies",
+      "independence",
+      "life-story",
+      "medical-support",
+      "mental-health",
+      "mindfulness",
+      "personal-growth",
+      "physical-wellbeing",
+      "routine-change",
+      "self-care",
+      "self-reflection",
+      "wellness"
+    ]
+  },
+  "raw_llm_output": null
+}

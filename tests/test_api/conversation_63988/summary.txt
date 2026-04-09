@@ -1,0 +1,27 @@
+Conversation : 63988
+User         : 141
+Analyzed at  : 2026-04-09T18:20:55.957926Z
+Messages     : 30 total / 15 user
+
+-- Beliefs ------------------------------------------------------------------
+  1. [HEALTH] Making changes to health requires effort, which can initially feel overwhelming.
+     sentiment=negative  confidence=0.90
+     evidence: "I guess it’s just the thought of the effort involved. Sometimes it feels overwhelming."
+  2. [HEALTH] Small, incremental actions lead to positive feelings and capability.
+     sentiment=positive  confidence=0.95
+     evidence: "It went surprisingly well! I felt good afterward. I think I can expand on this."
+  3. [HEALTH] Consistency and sustained effort are achievable goals.
+     sentiment=positive  confidence=0.90
+     evidence: "I think I might really be able to stick to this."
+  4. [IDENTITY] The user has the capacity and motivation to improve their lifestyle significantly.
+     sentiment=positive  confidence=1.00
+     evidence: "I can definitely do that! You know what? I think I *can* do this! I’m feeling inspired!"
+  5. [HEALTH] Support systems (like friends) are crucial for maintaining healthy habits.
+     sentiment=positive  confidence=0.90
+     evidence: "I think I’m going to run with a friend this weekend! That’ll help keep me accountable."
+
+-- Downstream Scores --------------------------------------------------------
+  Value score    : 7.86 / 10
+  Dominant theme : Building and maintaining sustainable healthy habits through small, consistent effort.
+  Follow-up      : Considering your goal to run 5K by October, what small step could you take toward that specific target this week?
+  Content tags   : diet, fitness, goal-setting, health, life-story, medical-support, mental-health, motivation, personal-growth, physical-wellbeing, self-reflection

@@ -1,0 +1,72 @@
+{
+  "ref_conversation_id": 56808,
+  "ref_user_id": 876,
+  "analyzed_at": "2026-04-09T18:13:51.629876Z",
+  "message_count": 109,
+  "user_message_count": 54,
+  "beliefs": [
+    {
+      "topic": "technology",
+      "belief": "Using new technology is difficult and confusing, requiring patient guidance.",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "It's a bit confusing for me."
+    },
+    {
+      "topic": "identity",
+      "belief": "Age is a potential limiting factor when engaging with modern technology.",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "Maybe I’m too old for this tech stuff."
+    },
+    {
+      "topic": "community",
+      "belief": "Experiencing physical separation from family leads to feelings of loneliness and isolation.",
+      "sentiment": "negative",
+      "confidence": 1.0,
+      "evidence": "Sometimes it feels lonely at my age. My kids are busy with their lives, and I feel like I’m just here."
+    },
+    {
+      "topic": "health",
+      "belief": "Physical mobility issues restrict participation in usual social activities.",
+      "sentiment": "negative",
+      "confidence": 0.95,
+      "evidence": "going out feels hard on my legs these days."
+    },
+    {
+      "topic": "leisure",
+      "belief": "Intellectual engagement and shared experience are crucial sources of rejuvenation and connection.",
+      "sentiment": "positive",
+      "confidence": 1.0,
+      "evidence": "I feel so rejuvenated. It reminded me that I’m still..."
+    }
+  ],
+  "downstream_scores": {
+    "conversation_value_score": 8.86,
+    "dominant_theme": "Reconnection and adaptation through structured learning and community engagement",
+    "suggested_follow_up": "Since you found the book club so rejuvenating, perhaps we could brainstorm a new hobby or virtual interest group that fits your schedule and interests?",
+    "content_tags": [
+      "app-help",
+      "book-clubs",
+      "community-events",
+      "creative-activities",
+      "digital-literacy",
+      "entertainment",
+      "hobbies",
+      "life-story",
+      "lifelong-learning",
+      "loneliness",
+      "medical-support",
+      "mental-health",
+      "peer-support",
+      "personal-growth",
+      "physical-limitations",
+      "physical-wellbeing",
+      "self-reflection",
+      "social-connection",
+      "tech-support",
+      "technology-struggle"
+    ]
+  },
+  "raw_llm_output": null
+}

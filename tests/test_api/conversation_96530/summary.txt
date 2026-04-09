@@ -1,0 +1,27 @@
+Conversation : 96530
+User         : 396
+Analyzed at  : 2026-04-09T18:21:36.954820Z
+Messages     : 20 total / 10 user
+
+-- Beliefs ------------------------------------------------------------------
+  1. [HEALTH] Physical progress after injury is non-linear, and setbacks are expected parts of the recovery process.
+     sentiment=neutral  confidence=0.90
+     evidence: "Some days I feel like I'm moving backwards... I think I need to remind myself that it’s okay to have setbacks."
+  2. [IDENTITY] Past high achievements establish a baseline level of underlying resilience that can be tapped into.
+     sentiment=positive  confidence=1.00
+     evidence: "I was so scared, but I pushed through and completed it. That feeling of crossing the finish line was indescribable!"
+  3. [MINDSET] Sustainable motivation comes from acknowledging and celebrating small, immediate victories rather than focusing solely on a distant, large goal.
+     sentiment=positive  confidence=0.95
+     evidence: "Maybe I should celebrate the small victories instead of focusing on the end goal."
+  4. [HEALTH] New physical routines must be approached cautiously, prioritizing self-awareness over immediate intensity.
+     sentiment=neutral  confidence=1.00
+     evidence: "I’ll take it slow and listen to my body!"
+  5. [OTHER] Anxiety about potential pain or difficulty is a normal and anticipated emotional hurdle when starting a challenging new regimen.
+     sentiment=negative  confidence=1.00
+     evidence: "Feeling a bit anxious about starting. What if it hurts too much?"
+
+-- Downstream Scores --------------------------------------------------------
+  Value score    : 7.94 / 10
+  Dominant theme : Physical rehabilitation and mental adjustment to limitation
+  Follow-up      : Since you are planning strength training, what small, non-physical reward are you looking forward to after you complete your first week of the routine?
+  Content tags   : anxiety, fitness, general-interest, goal-setting, life-story, medical-support, mental-health, personal-growth, physical-wellbeing, recovery, resilience, self-reflection

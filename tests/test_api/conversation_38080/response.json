@@ -1,0 +1,83 @@
+{
+  "ref_conversation_id": 38080,
+  "ref_user_id": 360,
+  "analyzed_at": "2026-04-09T18:12:53.967348Z",
+  "message_count": 20,
+  "user_message_count": 10,
+  "beliefs": [
+    {
+      "topic": "health",
+      "belief": "Current physical limitations restrict my mobility and ability to participate fully in daily activities.",
+      "sentiment": "negative",
+      "confidence": 0.9,
+      "evidence": "my knees are acting up again. It’s hard to get up and down."
+    },
+    {
+      "topic": "identity",
+      "belief": "My identity is linked to active engagement through creative pursuits, which are currently difficult to maintain.",
+      "sentiment": "neutral",
+      "confidence": 0.8,
+      "evidence": "I used to enjoy painting, but it’s been a long time."
+    },
+    {
+      "topic": "spirituality",
+      "belief": "The fundamental meaning or purpose of life remains a source of contemplation and questioning.",
+      "sentiment": "neutral",
+      "confidence": 1.0,
+      "evidence": "What's the point of all this?"
+    },
+    {
+      "topic": "community",
+      "belief": "Strong connections with family are a major source of happiness and emotional comfort, though feelings of loneliness can persist.",
+      "sentiment": "positive",
+      "confidence": 0.9,
+      "evidence": "Family can be a great comfort... sometimes I feel lonely, even with family nearby."
+    },
+    {
+      "topic": "autonomy",
+      "belief": "Periods of inactivity or dependence on technology make me feel unproductive or stagnant.",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "It feels like I’m just sitting around these days, not doing much."
+    },
+    {
+      "topic": "technology",
+      "belief": "Digital tools can be unreliable and frustrating when I need them.",
+      "sentiment": "negative",
+      "confidence": 0.8,
+      "evidence": "It keeps logging me out, and I can't seem to type very well today."
+    }
+  ],
+  "downstream_scores": {
+    "conversation_value_score": 8.73,
+    "dominant_theme": "Navigating the meaning of life and maintaining engagement when confronted with physical decline and loneliness.",
+    "suggested_follow_up": "Since you mentioned loving capturing sunset colors, would you be interested in discussing some very simple, low-mobility watercolor techniques we could explore together?",
+    "content_tags": [
+      "aging",
+      "aging-in-place",
+      "app-help",
+      "community-events",
+      "creativity",
+      "digital-literacy",
+      "faith",
+      "family-connection",
+      "hobbies",
+      "independence",
+      "life-story",
+      "loneliness",
+      "medical-support",
+      "mental-health",
+      "mindfulness",
+      "peer-support",
+      "personal-growth",
+      "physical-wellbeing",
+      "purpose",
+      "self-care",
+      "self-reflection",
+      "social-connection",
+      "tech-support",
+      "wellness"
+    ]
+  },
+  "raw_llm_output": null
+}

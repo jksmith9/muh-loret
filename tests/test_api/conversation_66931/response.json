@@ -1,0 +1,56 @@
+{
+  "ref_conversation_id": 66931,
+  "ref_user_id": 648,
+  "analyzed_at": "2026-04-09T18:13:33.268394Z",
+  "message_count": 22,
+  "user_message_count": 11,
+  "beliefs": [
+    {
+      "topic": "health",
+      "belief": "My anxiety levels are currently high and disrupt my daily functioning.",
+      "sentiment": "negative",
+      "confidence": 1.0,
+      "evidence": "My anxiety is acting up again."
+    },
+    {
+      "topic": "health",
+      "belief": "My fear of a seizure relapse severely limits my ability to engage in routine physical activities.",
+      "sentiment": "negative",
+      "confidence": 1.0,
+      "evidence": "I was going to try to go for a walk, but I'm worried what if I have another seizure."
+    },
+    {
+      "topic": "technology",
+      "belief": "External support systems (like StoryBot) are genuinely helpful for immediate emotional regulation.",
+      "sentiment": "positive",
+      "confidence": 1.0,
+      "evidence": "Thanks, StoryBot. I really appreciate your support!"
+    },
+    {
+      "topic": "health",
+      "belief": "Disclosing the details of seizures to medical professionals is a crucial and non-negotiable requirement.",
+      "sentiment": "neutral",
+      "confidence": 1.0,
+      "evidence": "I need to tell them about the seizures for sure."
+    }
+  ],
+  "downstream_scores": {
+    "conversation_value_score": 7.0,
+    "dominant_theme": "Managing anxiety and limiting behaviors stemming from a chronic health condition (epilepsy/seizures).",
+    "suggested_follow_up": "Since telling your doctors is a priority, would it help to talk through what you are most worried about when you discuss this next week?",
+    "content_tags": [
+      "anxiety",
+      "app-help",
+      "coping-mechanisms",
+      "digital-literacy",
+      "health-management",
+      "medical-support",
+      "mental-health",
+      "physical-wellbeing",
+      "seizures",
+      "support",
+      "tech-support"
+    ]
+  },
+  "raw_llm_output": null
+}

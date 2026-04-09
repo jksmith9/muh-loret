@@ -1,0 +1,27 @@
+Conversation : 76922
+User         : 905
+Analyzed at  : 2026-04-09T18:16:14.462451Z
+Messages     : 24 total / 12 user
+
+-- Beliefs ------------------------------------------------------------------
+  1. [HEALTH] My current health struggles make me feel overwhelmed and a profound lack of control.
+     sentiment=negative  confidence=0.90
+     evidence: "I feel so out of control."
+  2. [COMMUNITY] Emotional support from close friends is highly effective in relieving feelings of isolation and worry.
+     sentiment=positive  confidence=0.95
+     evidence: "I shared my worries, and they listened. It helped me feel less alone."
+  3. [COMMUNITY] I tend to preemptively feel anxious or guilty about burdening my friends with my problems.
+     sentiment=negative  confidence=0.85
+     evidence: "I just hate to bother them with my issues."
+  4. [OTHER] Positive self-talk and proactive connection are essential components of managing chronic stress and anxiety.
+     sentiment=positive  confidence=0.80
+     evidence: "I should reach out more."
+  5. [HEALTH] Maintaining medical routines (appointments, exercises) is a necessary, ongoing effort toward stability.
+     sentiment=neutral  confidence=1.00
+     evidence: "I need to keep up with my doctor’s appointments and tests."
+
+-- Downstream Scores --------------------------------------------------------
+  Value score    : 7.8 / 10
+  Dominant theme : Navigating chronic health challenges and the emotional journey of self-care.
+  Follow-up      : Considering how you're managing the waiting period between appointments, what is one small, non-medical activity that reliably helps you anchor yourself in the present moment?
+  Content tags   : anxiety, community-events, coping-mechanisms, general-interest, health, medical-support, mental-health, peer-support, physical-wellbeing, social-connection, social-support
