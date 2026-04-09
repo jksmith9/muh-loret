@@ -1,0 +1,7 @@
+# Test dependencies — install alongside main requirements:
+#   uv pip install -r build/app/requirements.txt -r tests/requirements-test.txt
+
+pytest==8.3.5
+pytest-asyncio==0.25.3
+pytest-httpx==0.35.0
+httpx==0.28.1

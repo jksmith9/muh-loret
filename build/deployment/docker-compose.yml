@@ -1,0 +1,37 @@
+# ============================================================
+# Belief Extraction API — Docker Compose
+# Prerequisites:
+#   1. Docker Desktop (or Docker Engine) installed and running
+#   2. Ollama running on the HOST machine (not in a container)
+#   3. gemma4:e4b model pulled:  ollama pull gemma4:e4b
+#
+# Usage:
+#   cd build/deployment
+#   docker compose up --build
+#   # API available at http://localhost:8000
+# ============================================================
+
+services:
+  api:
+    build:
+      context: ..           # build/ directory (contains Dockerfile + app/)
+      dockerfile: Dockerfile
+    image: belief-extraction-api:latest
+    container_name: belief-extraction-api
+    ports:
+      - "8000:8000"
+    environment:
+      # Points to Ollama running on the host machine.
+      # On Linux replace with: http://172.17.0.1:11434
+      OLLAMA_BASE_URL: "${OLLAMA_BASE_URL:-http://host.docker.internal:11434}"
+      OLLAMA_MODEL: "${OLLAMA_MODEL:-gemma4:e4b}"
+      CORS_ORIGINS: "${CORS_ORIGINS:-*}"
+      DEBUG_RESPONSES: "${DEBUG_RESPONSES:-false}"
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "python", "-c",
+             "import urllib.request; urllib.request.urlopen('http://localhost:8000/health')"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 10s
