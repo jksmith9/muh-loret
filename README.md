@@ -202,11 +202,15 @@ docker compose up --build
 # 1. Create an isolated virtual environment (only needed once)
 uv venv .venv --seed
 
-# 2. Install all deps into the venv
-uv pip install --python .venv/Scripts/python -r build/app/requirements.txt -r tests/requirements-test.txt
+# 2. Activate the environment (Windows)
+.venv\\Scripts\\activate
+# (Mac/Linux users: source .venv/bin/activate)
 
-# 3. Run the test suite (no live Ollama required)
-.venv/Scripts/pytest -v
+# 3. Install all deps into the venv
+uv pip install -r build/app/requirements.txt -r tests/requirements-test.txt
+
+# 4. Run the test suite (no live Ollama required)
+pytest -v
 ```
 
 Tests are organised as follows:
