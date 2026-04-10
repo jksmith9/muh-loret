@@ -268,3 +268,7 @@ muh-loret/
 2. **Refine ML to illustrate belief and opinion growth** - The current ML pipeline is basic and could be improved to better illustrate belief and opinion growth over time and between conversations.
 3. **Enrich conversation data more** - The current dataset is small and may not be representative of all possible conversations. Needs to be expanded to include more data.
 4. **Add more API functions** - The current API is limited and could be expanded to include more functions and endpoints. For example, a function to get the most recent conversation for a user, or a function to get the most recent conversation for a user.
+5. **Add k8s deployment and CI/CD** - The current deployment is local only and could be improved to include k8s deployment and CI/CD. 
+6. **Add iterative liveness checks** - The current liveness check is basic and could be improved to include more information about the API's health. For example, a function to get the most recent conversation for a user, or a function to get the most recent conversation for a user.
+7. **Enhance scoring models** - Current tests yielded questionable analysis and the scoring models need to be improved to better reflect the conversation data. Currently the model is not deterministic and yields different results for the same input.
+8. **Add frontend UI** - Enhance the user experience for interacting with the API. This would help with testing and demonstrating the API, but also scope for other features like conversation flow and showcasing multiple conversations from the same user. 
