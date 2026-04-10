@@ -261,3 +261,10 @@ muh-loret/
 2. **Belief extraction** — User-only messages are assembled into a transcript and sent to `gemma4:e4b` via Ollama with a structured JSON prompt asking for beliefs, sentiment, and confidence.
 3. **ML post-processing** — Extracted beliefs are clustered using TF-IDF cosine similarity (scikit-learn) and scored across five heuristic factors (topic coverage, LLM confidence, sentiment richness, conversation length, personal disclosure).
 4. **Structured output** — Results are returned with per-belief entries and three downstream score fields ready for consumption.
+
+## Follow up work
+
+1. **Give options for CPU only** - The ollama instance and model chosen for this exercise may be intensive for CPU only workstations. Needs scoping to lighterweight models matching performance.
+2. **Refine ML to illustrate belief and opinion growth** - The current ML pipeline is basic and could be improved to better illustrate belief and opinion growth over time and between conversations.
+3. **Enrich conversation data more** - The current dataset is small and may not be representative of all possible conversations. Needs to be expanded to include more data.
+4. **Add more API functions** - The current API is limited and could be expanded to include more functions and endpoints. For example, a function to get the most recent conversation for a user, or a function to get the most recent conversation for a user.
